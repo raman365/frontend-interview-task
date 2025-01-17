@@ -21,7 +21,7 @@ Design the necessary props or configuration options for the modal dialog based o
 
 The `<dialog>` HTML element is available but for the sake of of this task, implement a modal dialog without using that element.
 
-## Stretch
+## Stretch goals
 
 - The modal can be closed by clicking outside of the modal dialog component, or by hitting the `Escape` key.
 
