@@ -4,7 +4,7 @@
 
 Modal dialogs are interactive overlay windows that temporarily disable the main content of a web page, focusing user attention on specific tasks or information. They can be used for displaying critical alerts, requesting user input, confirming actions, and presenting additional content without navigating away from the current context.
 
-Build a reusable modal dialog component that can be opened and closed, with customizable title and contents.
+Build a reusable modal dialog component that can be opened and closed, with customisable title and contents.
 
 ## Requirements
 
